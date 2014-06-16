@@ -2,11 +2,13 @@
 
 # bespoke-fullscreenbackground
 
-fullscreen backgrounds for the slides
+>> fullscreen backgrounds for the slides
 
 **NOTE:** I haven't written a test or anything, this is super alpha :-P
 
 ## Download
+
+[![NPM](https://nodei.co/npm/bespoke-fullscreenbackground.png?downloads=true)](https://nodei.co/npm/bespoke-fullscreenbackground/)
 
 Download the [production version][min] or the [development version][max], or use a [package manager](#package-managers).
 
